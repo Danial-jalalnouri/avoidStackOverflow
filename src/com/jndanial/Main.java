@@ -5,7 +5,7 @@ import java.util.Stack;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(rSumNumbers(100000));
+        //System.out.println(rSumNumbers(100000));
         System.out.println(sumNumbers(100000));
     }
 
