@@ -2,6 +2,11 @@ package com.jndanial;
 
 import java.util.Stack;
 
+/**
+ * Created by jndanial.com (danial jalal nouri).
+ * http://http://www.jndanial.com/73/
+ */
+
 public class Main {
 
     public static void main(String[] args) {
